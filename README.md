@@ -1,1 +1,2 @@
 # exp
+permalink: /index.html
